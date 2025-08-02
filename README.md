@@ -41,11 +41,6 @@ Instead of manually searching for hotels, attractions, and logistics, WanderBot 
 
 ---
 
-## 📸 Screenshots
-
-*(Add screenshots of your app interface here if available)*
-
----
 
 ## 🧠 How It Works
 
@@ -60,7 +55,7 @@ Instead of manually searching for hotels, attractions, and logistics, WanderBot 
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/WanderBot.git
+git clone https://github.com/niverithi/WanderBot.git
 cd WanderBot
 
 # Install dependencies
